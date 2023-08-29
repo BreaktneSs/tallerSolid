@@ -1,6 +1,6 @@
+package PrincipioOCP;
 
-
-public class Figura {
+public abstract class Figura {
 
     public static void main(String[] args) {
         
