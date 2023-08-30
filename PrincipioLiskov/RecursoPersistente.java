@@ -1,5 +1,8 @@
 
 public interface RecursoPersistente {
-    public void load();
     public void save();
+}
+
+public interface RecursoCargar {
+    public void load();
 }
